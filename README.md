@@ -24,13 +24,10 @@ It uses a Arduino Leonardo and a custom made shield.
 
 ## CAD Files
 
-<img align="left" width="400px" alt="eagleanurag GIF" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG" />
-
-<img align="right" width="400px" alt="eagleanurag GIF" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG"" />
 
 
 
-<br />
+
 ***<details><summary>Click Here for Materials<img height="55" alt="https://user-images.githubusercontent.com/22770735/91830480-75777500-ec60-11ea-9b11-83e9d9f6ceb5.gif" /></summary>***
 
 * Arduino Leonardo
