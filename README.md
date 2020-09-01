@@ -17,8 +17,9 @@ It uses a Arduino Leonardo and a custom made shield.
 
 ### Robot In Action
 
-# <details><summary>Materials:
-# Materials:
+
+### <details><summary>Materials: </summary>***
+
 
 * Arduino Leonardo
 * L293D
