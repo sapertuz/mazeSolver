@@ -56,6 +56,16 @@ It uses a Arduino Leonardo and a custom made shield.
 * 2-AA Battery Holder (https://www.pololu.com/product/1150)
 </details>
 
+
+## Line Follower Photos
+
+<img align="center" width="400" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91813345-36412800-ec50-11ea-933f-db0c040b427b.JPG" />
+<img align="center" width="400" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91813329-33463780-ec50-11ea-9fa5-5236a33c3c0e.JPG" />
+
+
+
+
+
 ## YouTube Video
 </a>
 <a href="https://www.youtube.com/watch?v=Ddkci5myxYI&feature=youtu.be" >
