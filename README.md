@@ -1,5 +1,9 @@
 # mazeSolver
 
+<a href="https://github.com/cheiio/mazeSolver">
+  <img align="right" alt="Twitter" width="400px" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG" />
+</a>
+
 This Git contains the 
 - Arduino Project Source
 - Eagle Source for PCB board
@@ -11,6 +15,9 @@ You need the PID_v1 library fot arduino to make irt run
 This is a current working project. It's a 3D printed Maze Solver and Line Follower based on the Pololu 3Pi robot.
 It uses a Arduino Leonardo and a custom made shield.
 
+### Robot In Action
+
+# <details><summary>Materials:
 # Materials:
 
 * Arduino Leonardo
@@ -25,3 +32,4 @@ It uses a Arduino Leonardo and a custom made shield.
 * Pololu Ball Caster with 1/2″ Metal Ball (https://www.pololu.com/product/953)
 * 2-AA Batteries
 * 2-AA Battery Holder (https://www.pololu.com/product/1150)
+</details>
