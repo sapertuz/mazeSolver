@@ -29,7 +29,7 @@ It uses a Arduino Leonardo and a custom made shield.
 
 ### Materials
 
-***<details><summary>Click Me For Little More Magical Words!<img height="55" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91830480-75777500-ec60-11ea-9b11-83e9d9f6ceb5.gif" /></summary>***
+***<details><summary>Click Me For Little More Magical Words!<img height="45" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91830480-75777500-ec60-11ea-9b11-83e9d9f6ceb5.gif" /></summary>***
   
 * Arduino Leonardo
 * L293D
