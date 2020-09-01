@@ -24,18 +24,15 @@ It uses a Arduino Leonardo and a custom made shield.
 
 ## CAD Files
 
+<img align="left" width="400px" alt="eagleanurag GIF" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG" />
 
-<a href="https://github.com/cheiio/mazeSolver">
-  <img align="left" alt="Twitter" width="380px" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG" />
-</a>
-<a href="https://github.com/cheiio/mazeSolver">
-  <img align="right" alt="Twitter" width="380px" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG" />
-</a>
+<img align="right" width="400px" alt="eagleanurag GIF" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG"" />
+
 
 
 <br />
-***<details><summary>Click Here for Materials/Components: </summary>***
-  
+***<details><summary>Click Here for Materials<img height="55" alt="https://user-images.githubusercontent.com/22770735/91830480-75777500-ec60-11ea-9b11-83e9d9f6ceb5.gif" /></summary>***
+
 * Arduino Leonardo
 * L293D
 * Piezo Buzzer
