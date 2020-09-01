@@ -1,7 +1,7 @@
 # mazeSolver
 
 <a href="https://github.com/cheiio/mazeSolver">
-  <img align="right" alt="Twitter" width="400px" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG" />
+  <img align="right" alt="Twitter" width="380px" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG" />
 </a>
 
 This Git contains the 
@@ -16,9 +16,11 @@ This is a current working project. It's a 3D printed Maze Solver and Line Follow
 It uses a Arduino Leonardo and a custom made shield.
 
 ### Robot In Action
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91827351-5971d480-ec5c-11ea-825c-ca2c39b190bd.gif" />
 
 
-***<details><summary>Click Here for Materials: </summary>
+
+***<details><summary>Click Here for Materials/Components: </summary>
 * Arduino Leonardo
 * L293D
 * Piezo Buzzer
