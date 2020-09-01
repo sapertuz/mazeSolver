@@ -16,8 +16,10 @@ This is a current working project. It's a 3D printed Maze Solver and Line Follow
 It uses a Arduino Leonardo and a custom made shield.
 
 ### Robot In Action
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91827351-5971d480-ec5c-11ea-825c-ca2c39b190bd.gif" />
 
+<a href="https://www.youtube.com/watch?v=Ddkci5myxYI" target="_blank">
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91827351-5971d480-ec5c-11ea-825c-ca2c39b190bd.gif" />
+</a>
 <br />
 
 ***<details><summary>Click Here for Materials/Components: </summary>***
