@@ -26,15 +26,15 @@ It uses a Arduino Leonardo and a custom made shield.
 
 </a>
 <a href="https://github.com/cheiio/mazeSolver/tree/master/Maze_Solver/files/" >
-  <img align="center" width="400" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91813365-3ccf9f80-ec50-11ea-9bcc-7884405e6d7f.JPG" />
+  <img align="center" width="350" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91813365-3ccf9f80-ec50-11ea-9bcc-7884405e6d7f.JPG" />
 </a>
 </a>
 <a href="https://github.com/cheiio/mazeSolver/tree/master/Maze_Solver/files/" >
-  <img align="center" width="300" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91822809-ebc2aa00-ec55-11ea-94d6-0c4f6b44d20c.gif" />
+  <img align="center" width="250" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91822809-ebc2aa00-ec55-11ea-94d6-0c4f6b44d20c.gif" />
 </a>
 </a>
 <a href="https://github.com/cheiio/mazeSolver/tree/master/Maze_Solver/files/" >
-  <img align="center" width="400" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG" />
+  <img align="center" width="350" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG" />
 </a>
 
 
