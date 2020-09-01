@@ -30,7 +30,7 @@ It uses a Arduino Leonardo and a custom made shield.
 </a>
 </a>
 <a href="https://github.com/cheiio/mazeSolver/tree/master/Maze_Solver/files/" >
-  <img align="center" width="200" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91822809-ebc2aa00-ec55-11ea-94d6-0c4f6b44d20c.gif" />
+  <img align="center" width="220" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91822809-ebc2aa00-ec55-11ea-94d6-0c4f6b44d20c.gif" />
 </a>
 </a>
 <a href="https://github.com/cheiio/mazeSolver/tree/master/Maze_Solver/files/" >
