@@ -22,6 +22,18 @@ It uses a Arduino Leonardo and a custom made shield.
 </a>
 <br />
 
+## CAD Files
+
+
+<a href="https://github.com/cheiio/mazeSolver">
+  <img align="left" alt="Twitter" width="380px" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG" />
+</a>
+<a href="https://github.com/cheiio/mazeSolver">
+  <img align="right" alt="Twitter" width="380px" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG" />
+</a>
+
+
+<br />
 ***<details><summary>Click Here for Materials/Components: </summary>***
   
 * Arduino Leonardo
