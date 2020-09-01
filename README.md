@@ -57,6 +57,11 @@ It uses a Arduino Leonardo and a custom made shield.
 </details>
 
 ## YouTube Video
+</a>
+<a href="https://www.youtube.com/watch?v=Ddkci5myxYI&feature=youtu.be" >
+  <img align="Right" width="400" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91813349-37725500-ec50-11ea-9161-0353b6bc3181.png" />
+</a>
+
 For Robot in action Please checkout my<br />
 **Youtube Channel  [Click Here](https://www.youtube.com/watch?v=Ddkci5myxYI&feature=youtu.be)** .<br /><br /><br />
 
@@ -64,7 +69,4 @@ If You Found this Project Useful in any manner <br />
 **Subscribe** my **Youtube Channel  [Click Here](https://www.youtube.com/user/Sapmcool)** .<br />
 
 
-</a>
-<a href="https://www.youtube.com/watch?v=Ddkci5myxYI&feature=youtu.be" >
-  <img align="Right" width="400" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91813349-37725500-ec50-11ea-9161-0353b6bc3181.png" />
-</a>
+
