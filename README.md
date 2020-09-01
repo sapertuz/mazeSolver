@@ -14,6 +14,7 @@ You need the PID_v1 library fot arduino to make irt run
 
 This is a current working project. It's a 3D printed Maze Solver and Line Follower based on the Pololu 3Pi robot.
 It uses a Arduino Leonardo and a custom made shield.
+<br />
 
 ## Materials
 
@@ -32,6 +33,7 @@ It uses a Arduino Leonardo and a custom made shield.
 * 2-AA Batteries
 * 2-AA Battery Holder (https://www.pololu.com/product/1150)
 </details>
+<br />
 
 ### Robot In Action
 
@@ -55,16 +57,14 @@ It uses a Arduino Leonardo and a custom made shield.
   <img align="center" width="300" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91813335-350ffb00-ec50-11ea-9d71-df66f1ef29f8.JPG" />
 </a>
 
-
-
+<br /><br />
 
 ## Line Follower Photos
 
 <img align="left" width="400" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91813345-36412800-ec50-11ea-933f-db0c040b427b.JPG" />
 <img align="center" width="400" alt="CAD Files" src="https://user-images.githubusercontent.com/22770735/91813329-33463780-ec50-11ea-9fa5-5236a33c3c0e.JPG" />
 
-
-
+<br />
 
 
 ## YouTube Video
